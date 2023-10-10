@@ -7,3 +7,6 @@ git push origin branche_locale  # Pousse la branche locale vers la branche dista
 git push origin --tags         # Pousse les tags vers la branche distante
 git push origin --all          # Pousse toutes les branches vers la branche distante
 
+# Commande pour effectuer un pull
+git pull origin branche_locale # Récupère les modifications de la branche distante
+
