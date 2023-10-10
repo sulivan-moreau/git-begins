@@ -10,3 +10,8 @@ git push origin --all          # Pousse toutes les branches vers la branche dist
 # Commande pour effectuer un pull
 git pull origin branche_locale # Récupère les modifications de la branche distante
 
+# Commande pour créer une branche 
+git branch
+
+# Basculer sur une autre branche 
+git checkout 
