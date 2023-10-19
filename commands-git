@@ -1,12 +1,11 @@
-# Commande pour cloner un repository
-git clone git push https://sulivan-moreau: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@github.com/sulivan-moreau/get-begins.git
+# Commande git 
 
 
-# Les trois commandes de push
-git push origin branche_locale  # Pousse la branche locale vers la branche distante
-git push origin --tags         # Pousse les tags vers la branche distante
-git push origin --all          # Pousse toutes les branches vers la branche distante
-
-# Commande pour effectuer un pull
-git pull origin branche_locale # Récupère les modifications de la branche distante
+git clone  
+git add . 
+git commit 
+Git push 
+git pull
+git branch 
+git switch 
 
